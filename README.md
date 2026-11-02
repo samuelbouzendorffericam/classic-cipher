@@ -56,4 +56,4 @@ MIT, voir [LICENSE](LICENSE).
 
 ---
 
-*Réalisé avec l'aide de Claude (IA), relu et testé par l'auteur.*
+
